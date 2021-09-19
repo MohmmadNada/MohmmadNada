@@ -3,9 +3,8 @@
 
 **About me**
 
-I start my career as a Full-Stack Developer. Now; I'm working as QA Engineer. Looking for Bugs and make your app better is my job. 
-
-- ⚡ Fun fact: I can not live without coffee 
+I start my career as a Full-Stack Developer. Now; I'm working as QA Engineer.
+makes your app better and perfect; It's my job. 
 
 ##### Programming Languages
 
