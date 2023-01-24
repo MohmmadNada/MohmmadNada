@@ -1,4 +1,4 @@
-# Hellllllllo 👋 !!!! I'm Mohammad Nada
+# Hello!!!!👋 I'm Mohammad Nada
 ### I'm Quality Assurance Engineer
 
 **About me**
